@@ -18,5 +18,5 @@
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkotsume.tumblr.com%2Fpost%2F632162147811622912&psig=AOvVaw3qpaXa9j9NcEI4g3jpHdSB&ust=1755811058965000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDOxvGnmo8DFQAAAAAdAAAAABBS" />
+  <img alaing=center alt="aigis" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fkotsume.tumblr.com%2Fpost%2F632162147811622912&psig=AOvVaw3qpaXa9j9NcEI4g3jpHdSB&ust=1755811058965000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDOxvGnmo8DFQAAAAAdAAAAABBS" />
 </div>
