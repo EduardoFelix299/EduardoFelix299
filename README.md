@@ -18,5 +18,5 @@
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fbanco-de-dados-ti-gif-11972995189625448186&psig=AOvVaw0PB0ooLvxO9ZTAuyIVpSu8&ust=1755903201308000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDS5af_nI8DFQAAAAAdAAAAABAk" />
+  <img alaing=center alt="aigis" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fbanco-de-dados-ti-gif-11972995189625448186&psig=AOvVaw0PB0ooLvxO9ZTAuyIVpSu8&ust=1755903201308000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDS5af_nI8DFQAAAAAdAAAAABAk"/>
 </div>
