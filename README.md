@@ -18,5 +18,5 @@
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://www.google.com/imgres?q=gif%20programa%C3%A7%C3%A3o&imgurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2Fv1.Y2lkPTZjMDliOTUyeTgwc2c3Y2VuNnlsZ3l3ZnVpb2Z6a3M4bm9yZTRxcXN3aWZ0ejUxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n%2FbGgsc5mWoryfgKBx1u%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramacao&docid=bToTexSa3Ja3TM&tbnid=LTQoBPhZHzzjVM&vet=12ahUKEwjG54OV_ZyPAxWjH7kGHZghL8IQM3oECBYQAA..i&w=480&h=480&hcb=2&ved=2ahUKEwjG54OV_ZyPAxWjH7kGHZghL8IQM3oECBYQAA" />
+  <img alaing=center alt="aigis" src="https://dribbble.com/shots/6749707-Programar-1gif4day/attachments/6749707-Programar-1gif4day?mode=media" />
 </div>
