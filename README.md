@@ -18,5 +18,5 @@
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhaving-fun-with-gifs--554857616570851245%2F&psig=AOvVaw0PB0ooLvxO9ZTAuyIVpSu8&ust=1755903201308000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCh-4-AnY8DFQAAAAAdAAAAABAR"/>
+  <img alaing=center alt="aigis" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation&psig=AOvVaw1t_5RRMkoJpd5Vx6T59zWd&ust=1755903629666000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDwl_SAnY8DFQAAAAAdAAAAABAE"/>
 </div>
