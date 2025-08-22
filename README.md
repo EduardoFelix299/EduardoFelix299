@@ -18,5 +18,5 @@
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src=:"https://share.google/images/YT08QBhamhPFdX587" />
+  <img alaing=center alt="aigis" src="https://i.pinimg.com/originals/d9/9c/8c/d99c8cdceb5d52d55268f82cc5bcc728.gif" />
 </div>
