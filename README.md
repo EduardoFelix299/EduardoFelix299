@@ -18,5 +18,5 @@
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDevAngeloGoncalo&psig=AOvVaw3EafAbNFTuVRXcmFUujimC&ust=1756505415709000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiCyMXCro8DFQAAAAAdAAAAABAv" />
+  <img alaing=center alt="aigis" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDevAngeloGoncalo&psig=AOvVaw3EafAbNFTuVRXcmFUujimC&ust=1756505415709000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiCyMXCro8DFQAAAAAdAAAAABAv"/>
 </div>
