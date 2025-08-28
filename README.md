@@ -18,5 +18,5 @@
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdevtranslate%2Fcomo-se-tornar-um-super-ninja-aprendiz-de-programa%25C3%25A7%25C3%25A3o-b51f2488f96c&psig=AOvVaw3EafAbNFTuVRXcmFUujimC&ust=1756505415709000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiCyMXCro8DFQAAAAAdAAAAABAX" />
+  <img alaing=center alt="aigis" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.campuscode.com.br%2Fconteudos%2Fcoding-weekly-95&psig=AOvVaw3EafAbNFTuVRXcmFUujimC&ust=1756505415709000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiCyMXCro8DFQAAAAAdAAAAABAj" />
 </div>
