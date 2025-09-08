@@ -7,8 +7,9 @@
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EduardoFelix299&show_icons=true&theme=chartreuse-dark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFelix299&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-</div>
+ <a href="mailto:contato@eduardo.tech">
+  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 
 ##
 
