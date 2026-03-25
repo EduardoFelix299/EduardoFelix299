@@ -2,15 +2,16 @@
 
 
 
-- 📚 Atualmente no 2° Semestre do Curso Superior em Gestão da Tecnologia da Informação.
+- 📚 Atualmente no 3° Semestre do Curso Superior em Gestão da Tecnologia da Informação.
 
 - Competências iniciadas no Curso Superior:
 
-- 😜 Iniciante em Python
-- 👾 Iniciante em Java
-- 🤖 Infraestrutura da Tecnologia
-- 🔧 Modelagem e Gestão de Projetos
-- 🔩 Sistemas Operacionais
+- 👾 Iniciante em Python                                | - 🗣 Marketing e E-Commerce.
+- 👾 Iniciante em Banco de Dados ( SQL Commander )      | - 🗣 Metodologia SCRUM em ODS
+- 👾 Iniciante em Java.                                 | - 🗣 Modelagem De Processos
+- 🤖 Infraestrutura da Tecnologia                       |
+- 🤖 Modelagem e Gestão de Projetos                     |
+- 🤖 Sistemas Operacionais                              |
 
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EduardoFelix299&show_icons=true&theme=chartreuse-dark"/>
