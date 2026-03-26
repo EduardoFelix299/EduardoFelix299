@@ -1,4 +1,7 @@
-## Olá! sou o Eduardo Felix e Atualmente no 3° Semestre do Curso Superior em Gestão da Tecnologia da Informação.
+## Olá! sou o Eduardo Felix. 
+
+
+### Atualmente no 3° Semestre do Curso Superior em Gestão da Tecnologia da Informação. 
 
 
 
