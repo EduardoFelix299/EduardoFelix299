@@ -5,7 +5,7 @@
 - 📚 Atualmente no 3° Semestre do Curso Superior em Gestão da Tecnologia da Informação.
 
 - Competências iniciadas no Curso Superior:
-
+<hr>
 - 🐍 Iniciante em Python                               
 - 🐍 Iniciante em Banco de Dados ( SQL Commander )      
 - ☕ Iniciante em Java.
