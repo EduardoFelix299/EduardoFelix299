@@ -3,7 +3,7 @@
 
 
 - 📚 Atualmente no 3° Semestre do Curso Superior em Gestão da Tecnologia da Informação.
-
+<hr>
 - Competências iniciadas no Curso Superior:
 <hr>
 - 🐍 Iniciante em Python |                     
