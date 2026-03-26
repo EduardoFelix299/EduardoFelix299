@@ -8,10 +8,12 @@
 
 - 🐍 Iniciante em Python                               
 - 🐍 Iniciante em Banco de Dados ( SQL Commander )      
-- ☕ Iniciante em Java.                                 
+- ☕ Iniciante em Java.
+<hr>                            
 - 🖥️ Infraestrutura da Tecnologia                       
 - 📊 Modelagem e Gestão de Projetos                     
 - 💻 Sistemas Operacionais
+<hr>
 - 🛒 Marketing e E-Commerce.
 - 🔄 Metodologia SCRUM em ODS
 <hr>
