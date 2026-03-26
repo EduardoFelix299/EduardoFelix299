@@ -6,18 +6,17 @@
 
 - Competências iniciadas no Curso Superior:
 <hr>
-- 🐍 Iniciante em Python                               
-- 🐍 Iniciante em Banco de Dados ( SQL Commander )      
+- 🐍 Iniciante em Python |                     
+- 🐍 Iniciante em Banco de Dados ( SQL Commander ) |
 - ☕ Iniciante em Java.
 <hr>                            
-- 🖥️ Infraestrutura da Tecnologia                       
-- 📊 Modelagem e Gestão de Projetos                     
-- 💻 Sistemas Operacionais
+- 🖥️ Infraestrutura da Tecnologia |                      
+- 📊 Modelagem e Gestão de Projetos |
+- 💻 Sistemas Operacionais.
 <hr>
-- 🛒 Marketing e E-Commerce.
-- 🔄 Metodologia SCRUM em ODS
-<hr>
-- ⚙️ Modelagem De Processos               
+- 🛒 Marketing e E-Commerce |
+- 🔄 Metodologia SCRUM em ODS |
+- ⚙️ Modelagem De Processos.
 <hr>
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EduardoFelix299&show_icons=true&theme=chartreuse-dark"/>
