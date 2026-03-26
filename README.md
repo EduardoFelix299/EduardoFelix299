@@ -1,7 +1,7 @@
-## Olá! sou o Eduardo Felix. 
+## 👨‍💻 Sobre mim
 
 
-### Atualmente no 3° Semestre do Curso Superior em Gestão da Tecnologia da Informação. 
+### Olá! Me chamo **Eduardo Felix**. 
 
 
 
