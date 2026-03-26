@@ -1,8 +1,13 @@
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim:
 
 
 ### Olá! Me chamo **Eduardo Felix**. 
 
+Atualmente estou no **3º semestre do curso superior em Gestão da Tecnologia da Informação (GTI)**, em fase final de conclusão.
+
+Tenho interesse em áreas como desenvolvimento, banco de dados e infraestrutura, e estou em constante evolução buscando aprimorar minhas habilidades técnicas e profissionais.
+
+Sou uma pessoa dedicada, com facilidade para aprender e motivado a construir soluções eficientes através da tecnologia.
 
 
 <hr>
