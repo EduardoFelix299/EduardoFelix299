@@ -5,10 +5,8 @@
 
 Atualmente estou no **3º semestre do curso superior em Gestão da Tecnologia da Informação (GTI)**, em fase final de conclusão.
 
-Tenho interesse em áreas como desenvolvimento, banco de dados e infraestrutura, e estou em constante evolução buscando aprimorar minhas habilidades técnicas e profissionais.
-
-Sou uma pessoa dedicada, com facilidade para aprender e motivado a construir soluções eficientes através da tecnologia.
-
+Atualmente estou desenvolvendo projetos em Python e SQL, com foco em criação de APIs simples e manipulação de dados.
+Tenho interesse em backend e infraestrutura, buscando evoluir para soluções mais escaláveis.
 
 <hr>
 - Competências iniciadas no Curso Superior:
