@@ -19,7 +19,7 @@ Tenho interesse em backend e infraestrutura, buscando evoluir para soluções ma
 - 📊 Modelagem e Gestão de Projetos |
 - 💻 Sistemas Operacionais.
 <hr>
-- 🛒 Marketing e E-Commerce |
+- 🛒 Conceitos de API / backend |
 - 🔄 Metodologia SCRUM em ODS |
 - ⚙️ Modelagem De Processos.
 <hr>
