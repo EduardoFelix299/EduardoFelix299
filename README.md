@@ -3,7 +3,7 @@
 
 ### Olá! Me chamo **Eduardo Felix**. 
 
-Atualmente estou no **3º semestre do curso superior em Gestão da Tecnologia da Informação (GTI)**, em fase final de conclusão.
+Atualmente estou no **4º semestre do curso superior em Gestão da Tecnologia da Informação (GTI)**, em fase final de conclusão.
 
 Atualmente estou desenvolvendo projetos em Python e SQL, com foco em criação de APIs simples e manipulação de dados.
 Tenho interesse em backend e infraestrutura, buscando evoluir para soluções mais escaláveis.
