@@ -11,9 +11,9 @@ Tenho interesse em backend e infraestrutura, buscando evoluir para soluções ma
 <hr>
 - Competências iniciadas no Curso Superior:
 <hr>
-- 🐍 Iniciante em Python |                     
-- 🐍 Iniciante em Banco de Dados ( SQL Commander ) |
-- ☕ Iniciante em Java.
+- 🐍 Python |                     
+- 🐍 Banco de Dados ( SQL Commander ) |
+- ☕ Java.
 <hr>                            
 - 🖥️ Infraestrutura da Tecnologia |                      
 - 📊 Modelagem e Gestão de Projetos |
