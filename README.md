@@ -31,12 +31,12 @@ Tenho interesse em backend e infraestrutura, buscando evoluir para soluções ma
 <a href="https://www.instagram.com/felix_.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eduardo-felix-0375a7332/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://mail.google.com/mail/?view=cm&to=contato@eduardo.felix2006.09.tech" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=blue">
+  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://user-images.githubusercontent.com/45950068/115100093-cc406f00-9f10-11eb-8815-bcd6aa45d245.gif"/>
+  <img alaing=center alt="aigis" src="https://br.pinterest.com/pin/109564203421769139/"/>
 </div>
 
 
