@@ -36,7 +36,7 @@ Tenho interesse em backend e infraestrutura, buscando evoluir para soluções ma
 ##
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://br.pinterest.com/pin/109564203421769139/"/>
+  <img alaing=center alt="aigis" src="file:///C:/Users/EDUARDOFELIXDASILVA/Downloads/pawel-d-browski-graphics-card-14927.gif"/>
 </div>
 
 
