@@ -36,7 +36,7 @@ Tenho interesse em backend e infraestrutura, buscando evoluir para soluções ma
 ##
 
 <div align="center">
-  <img height="80cm" alaing=center alt="aigis" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
+  <img height="160cm" alaing=center alt="aigis" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
 </div>
 
 
