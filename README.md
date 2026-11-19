@@ -18,10 +18,12 @@ Tenho interesse em backend e infraestrutura, buscando evoluir para soluções ma
 - 🖥️ Infraestrutura da Tecnologia |                      
 - 📊 Modelagem e Gestão de Projetos |
 - 💻 Sistemas Operacionais.
+- 💻 Rede de Computadores (Cisco Packet Tracer)
 <hr>
 - 🛒 Conceitos de API / backend |
 - 🔄 Metodologia SCRUM em ODS |
 - ⚙️ Modelagem De Processos.
+- 🔍 Análise e Projeto de Sistema
 <hr>
 <div align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=EduardoFelix299&show_icons=true&theme=chartreuse-dark"/>
