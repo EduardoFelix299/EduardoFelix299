@@ -17,12 +17,12 @@ Tenho interesse em backend e infraestrutura, buscando evoluir para soluções ma
 <hr>                            
 - 🖥️ Infraestrutura da Tecnologia |                      
 - 📊 Modelagem e Gestão de Projetos |
-- 💻 Sistemas Operacionais.
+- 💻 Sistemas Operacionais.|
 - 💻 Rede de Computadores (Cisco Packet Tracer)
 <hr>
 - 🛒 Conceitos de API / backend |
 - 🔄 Metodologia SCRUM em ODS |
-- ⚙️ Modelagem De Processos.
+- ⚙️ Modelagem De Processos.|
 - 🔍 Análise e Projeto de Sistema
 <hr>
 <div align="center">
